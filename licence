@@ -1,0 +1,8 @@
+00b1395 (HEAD -> master) HEAD@{0}: reset: moving to HEAD^
+cfe0fa8 HEAD@{1}: reset: moving to cfe0f
+00b1395 (HEAD -> master) HEAD@{2}: reset: moving to HEAD^
+cfe0fa8 HEAD@{3}: commit: append GPL
+00b1395 (HEAD -> master) HEAD@{4}: commit: add distributed
+09df584 HEAD@{5}: commit (initial): wrote a readme file
+liugan@localhost learngit % git reset --hard cfe0fa8
+HEAD is now at cfe0fa8 append GPL
